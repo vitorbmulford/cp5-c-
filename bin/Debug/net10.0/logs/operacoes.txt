@@ -1,0 +1,10 @@
+[30/09/2026 11:57:56] Produto inserido - Nome: Teste SQLite
+[30/09/2026 11:58:33] Produto inserido - Nome: Teste SQLite
+[30/09/2026 11:58:53] Produto inserido - Nome: Teste SQLite
+[30/09/2026 12:02:31] Produto inserido - Nome: produto 1
+[30/09/2026 12:02:44] Produto consultado - ID: 1
+[30/09/2026 12:02:58] Produto atualizado - ID: 1 - Nome: produto 2
+[30/09/2026 12:03:03] Produto excluído - ID: 1
+[30/09/2026 12:17:47] Produto inserido - Nome: produto 1
+[30/09/2026 12:17:56] Produto consultado - ID: 2
+[30/09/2026 12:18:00] Produto excluído - ID: 2
