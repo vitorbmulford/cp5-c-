@@ -8,3 +8,5 @@
 [30/09/2026 12:17:47] Produto inserido - Nome: produto 1
 [30/09/2026 12:17:56] Produto consultado - ID: 2
 [30/09/2026 12:18:00] Produto excluído - ID: 2
+[30/09/2026 12:28:52] Produto inserido - Nome: Produto 1
+[30/09/2026 12:29:06] Produto excluído - ID: 3
